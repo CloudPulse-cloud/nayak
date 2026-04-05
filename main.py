@@ -39,7 +39,7 @@ except ImportError:
 # ══════════════════════════════════════════════════════════════
 # AUTO-UPDATE CONFIG
 # ══════════════════════════════════════════════════════════════
-VERSION     = "1.0.4"   # bump this number when you push an update
+VERSION     = "1.0.5"   # bump this number when you push an update
 
 # ── Set these to your GitHub raw file URLs ─────────────────────
 # Step 1: Create a GitHub repo (github.com → New repository)
